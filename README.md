@@ -1,6 +1,6 @@
 # BERT-Based LLM Classifier
 
-This repository contains a simple example of how to build a binary classifier using a pre-trained BERT model from TensorFlow Hub. The classifier is designed to analyze text input and assign it to one of two classes.
+This repository contains an example of how to build a binary classifier using a pre-trained BERT model from TensorFlow Hub. The classifier is designed to analyze text input and assign it to one of two classes.
 
 ## Dataset
 
